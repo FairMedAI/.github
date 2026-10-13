@@ -28,4 +28,4 @@ MIT Code / CC-BY-4.0 Papers / Zenodo DOIs
 
 **Links:** fairmedai.vercel.app | linkedin.com/company/fairmedai
 
-Founder: Shanmuka Gottimukkala — Secretary @ Milton Coders (Hack Club)
+Founder: Shanmuka Gottimukkala
